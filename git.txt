@@ -1,0 +1,7 @@
+
+git init 
+git add git.txt  index.html
+git commit -m "primeiro commit" 
+git branch -M  main 
+git remoto adicionar origem https://github.com/TamiresAl/ts.git
+ git push - sua origem  main
